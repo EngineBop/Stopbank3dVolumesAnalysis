@@ -104,7 +104,7 @@ Use the `stopbankFootprint_...` polygon as the **Analysis Mask** and the **DEM**
 
 ## 📋 License and Attribution
 
-Created by [EngineBop](https://github.com/EngineBop)  
+Created by [EngineBop](https://github.com/EngineBop)  BOPRC Engineering
 Intended for public sector use and infrastructure asset management.
 
 ---
